@@ -1,5 +1,6 @@
 package com.lambdaschool.dogsinitial;
 
+
 import java.util.concurrent.atomic.AtomicLong;
 
 public class Dog
